@@ -69,7 +69,7 @@ Structured math problems scaling from elementary school through Olympiad level.
 - **OlympiadBench** – high-difficulty contest problems 
 - **FrontierMath** – expert-curated frontier math 
 
-
+---
 
 ## Instruction-Following-Benchmarks
 Instruction-following benchmarks have evolved from single-task NLP sets to rich, real-world, and automated evaluations. Early datasets focused on mapping input to output on held-out tasks, giving way to instruction-tuning collections and prompt generalization. Modern evaluations incorporate human prompts, automated judges, style-control, and constraint-based tests. We also highlight recent benchmarks targeting specialized domains, evaluator robustness, and long-context stability.
