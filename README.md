@@ -3,7 +3,7 @@
 ## [Knowledge-Benchmarks](https://github.com/ALEX-nlp/Knowledge-Benchmarks)
 This page organizes LLM knowledge-evaluation benchmarks into four major types—**Breadth**, **Depth**, **Truthfulness**, and **Dynamic/Timely**—and lists representative datasets for each. We’ve also added a handful of the latest 2024–2025 works.
 
-## [Reasoning-Benchmakrs](https://github.com/ALEX-nlp/Reasoning-Benchmark/tree/main)
+## [Reasoning-Benchmarks](https://github.com/ALEX-nlp/Reasoning-Benchmark/tree/main)
 Reasoning benchmarks probe LLMs’ structured thought across multiple domains—mathematics, coding, commonsense, long-context comprehension, formal logic, hierarchical planning, and miscellaneous symbolic tasks.
 
 ## [Instruction-Following-Benchmarks](https://github.com/ALEX-nlp/Instruction-Following-Benchmarks)
